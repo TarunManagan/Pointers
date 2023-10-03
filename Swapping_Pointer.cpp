@@ -17,5 +17,5 @@ int main(){
 }
 /*OUPUT
 The original value of a and b are: 10	15
-The value of a and b after swapping is: 15	10
+The value of a and b after swapping is: 15 10
 */
