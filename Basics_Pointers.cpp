@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
    int a=10,*aptr; //Declaring pointer
+   // note that data type of ptr and var must be same
    aptr=&a; //Assigning the address of a to aptr --> '&' is the address operator
    cout<<"The original value of a is: "<<*aptr<<endl;
    cout<<"The address of a is: "<<aptr<<endl;
