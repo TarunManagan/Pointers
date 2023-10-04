@@ -7,7 +7,7 @@ int main(){
    cout<<"The original value of a is: "<<*aptr<<endl;
    cout<<"The address of a is: "<<aptr<<endl;
    *aptr=15; //Changing the value of a from 10 to 15
-   cout<<"The new value of a is: "<<*aptr;
+   cout<<"The new value of a is: "<<a;
     return 0;
 }
 /*OUPUT
