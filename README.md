@@ -1,3 +1,6 @@
+# Name: S.Tarun Managan
+# PRN: 22070123118
+
 # Pointers
 A pointer is a variable that stores the memory address as its value.
 A pointer variable points to a data type (like int or string) of the same type, and is created with the * operator. 
